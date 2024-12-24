@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @phillipdelphias
-- 👀 I’m interested in riding right now!
-- 🌱 I’m currently learning how to use all of this 😭
-- 📫 How to reach me: popping an email at phillipdelphias@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not sure.... Nothing fun about me.
+Phillip Delphias
+
+I'm not the greatest coder but I know a few languages (Javascript, Python, Css, HTML (dunno if you could debate if css and html are languages) and I like working on sites, and discord bots.
 
 <!---
 phillipdelphias/phillipdelphias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
